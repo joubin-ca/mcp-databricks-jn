@@ -2,10 +2,10 @@
 
 ## Folder Structure
 
-- **/sql/**  
+- **/sql**  
   Contains SQL scripts for creating and managing database tables, such as `Contractors.sql`.
 
-- **/notebooks/**  
+- **/notebooks**  
   Includes Databricks notebooks for calling Unity Catalog functions, setting up an MCP server and running an agent
 
 ## Databricks Compute Libs
