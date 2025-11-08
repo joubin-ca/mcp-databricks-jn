@@ -1,1 +1,1 @@
-# mcp-databricks-jn
+# mcp-databricks
